@@ -7,6 +7,8 @@
 - `pet.json` - pet manifest
 - `spritesheet.webp` - Codex-compatible animated pet spritesheet
 - `contact-sheet.png` - QA contact sheet showing all animation frames
+- `icon-white.png` - 1024px white-background SNS icon
+- `icon-white-512.png` - 512px white-background SNS icon
 
 ## Install
 
@@ -27,5 +29,7 @@ Then restart or reload Codex and select `ネコチャン` from the pet list.
 - Validation: generated with the hatch-pet workflow; atlas validation and frame review passed with no errors or warnings.
 
 ## Preview
+
+![ネコチャン SNS icon](icon-white.png)
 
 ![ネコチャン contact sheet](contact-sheet.png)
